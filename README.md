@@ -1,7 +1,7 @@
 
 # 프로젝트
 
-👉🏻[정형데이터 프로젝트(공공데이터:고립은둔청년 분류모델](https://github.com/aksl007/ai_source/blob/main/hiki_v3.ipynb)
+👉🏻[정형데이터 프로젝트(공공데이터:고립은둔청년 분류모델)](https://github.com/aksl007/ai_source/blob/main/hiki_v3.ipynb)
 
 
 # 포트폴리오
